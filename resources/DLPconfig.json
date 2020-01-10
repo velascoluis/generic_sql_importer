@@ -1,0 +1,8 @@
+[
+  {
+    "tableName": "donations",
+    "batchSize":"1000",
+    "deidTemplate": "projects/grifols-poc/deidentifyTemplates/8670091042827734670",
+    "inspTemplate":"projects/grifols-poc/inspectTemplates/donations_template"
+  }
+]
